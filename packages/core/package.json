@@ -1,6 +1,6 @@
 {
 	"name": "@rjsf-zest/core",
-	"version": "1.0.0",
+	"version": "2.0.2",
 	"description": "A simple React component capable of building HTML forms out of a JSON schema.",
 	"lint-staged": {
 		"{playground,src,test}/**/*.js": [
@@ -106,5 +106,5 @@
 	"publishConfig": {
 		"access": "public"
 	},
-	"gitHead": "05d888bc34c1c9b43a45e8a208482bafd357dde2"
+	"gitHead": "3c66199de07f020038c928fa2ed4b2c7a1413b88"
 }

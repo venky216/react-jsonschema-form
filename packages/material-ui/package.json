@@ -1,6 +1,6 @@
 {
-  "name": "@rjsf/material-ui",
-  "version": "2.0.0",
+  "name": "@rjsf-zest/material-ui",
+  "version": "1.0.0",
   "main": "dist/index.js",
   "module": "dist/rjsf-material-ui.esm.js",
   "typings": "dist/index.d.ts",
@@ -67,7 +67,8 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/cybertec-postgresql/rjsf-material-ui.git"
+    "url": "git+https://github.com/venky216/react-jsonschema-form/tree/master/packages/material-ui"
   },
-  "license": "MIT"
+  "license": "MIT",
+  "gitHead": "3c66199de07f020038c928fa2ed4b2c7a1413b88"
 }
