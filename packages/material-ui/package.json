@@ -67,7 +67,7 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/venky216/react-jsonschema-form/tree/master/packages/material-ui"
+    "url": "git+https://github.com/venky216/react-jsonschema-form/tree/master/packages/material-uigit a"
   },
   "license": "MIT",
   "gitHead": "3c66199de07f020038c928fa2ed4b2c7a1413b88"
