@@ -1,6 +1,6 @@
 {
   "name": "@rjsf-zest/material-ui",
-  "version": "1.0.0",
+  "version": "2.0.4",
   "main": "dist/index.js",
   "module": "dist/rjsf-material-ui.esm.js",
   "typings": "dist/index.d.ts",
